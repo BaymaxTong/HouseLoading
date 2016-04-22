@@ -1,2 +1,2 @@
-# 这是一个有趣的加载动画
+# This is an interesting loading animation
 ![image](https://github.com/BaymaxTong/HouseLoading/blob/master/loading.gif)
